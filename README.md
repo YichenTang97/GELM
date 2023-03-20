@@ -1,5 +1,5 @@
 # GELM
- A python implementation of the discriminative graph regularized Extreme Learning Machine (GELM) proposed by Yong Peng et al. [1], with sklearn compatibility.
+ An unofficial python implementation of the discriminative graph regularized Extreme Learning Machine (GELM) proposed by Yong Peng et al. [1], with sklearn compatibility.
 
 ## Introduction
 
