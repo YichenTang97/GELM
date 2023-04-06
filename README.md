@@ -1,5 +1,8 @@
 # GELM
  An unofficial python implementation of the discriminative graph regularized Extreme Learning Machine (GELM) proposed by Yong Peng et al. [1], with sklearn compatibility.
+ 
+> **Warning**
+> Please note this is not an official implementation, nor has been tested on the datasets used in the original studies. Due to different libraries and hyperparameters used in the implementation (and potentially implementation errors), there might be differences in the performance of this model to the ones as described in the papers. Please always examine the source code, make your own changes if necessary, and describe the actual implementation if you are using this model for an academic study. And please raise an issue if you found any implementation error in my code, thank you!
 
 ## Introduction
 
